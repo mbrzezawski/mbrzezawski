@@ -3,7 +3,7 @@
 <h3 align="center">I'm interested in Software Engineering and Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Algorithms and Data Structures, Web Development and Data Bases**
+- 🌱 I’m currently learning **Web Development and Data Bases**
 
 - 📫 How to reach me **mbrzezawski@student.agh.edu.pl**
 
